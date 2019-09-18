@@ -10,6 +10,9 @@
               updated_at: contact.friendly_updated_at
               
               },
-  bio: contact.bio 
+  bio: contact.bio, 
+
+  user_id: contact.user_id
+
 
 }
